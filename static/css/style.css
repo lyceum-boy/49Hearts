@@ -1,0 +1,16 @@
+form.send_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffd1dc;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+h1 {
+    color: #000000;
+    padding: 20px;
+}
+p {
+    font-size: 14pt;
+}
